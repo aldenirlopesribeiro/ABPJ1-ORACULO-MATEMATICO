@@ -8,7 +8,7 @@ Esse projeto tem como finalidade ajuar o usuario a ter um controle sobre renda e
 
 ## fluxograma
 
-![](fluxograma.png)
+![](fluxograma.png.png)
 
 ## 🛠 Tecnologias
 As principais ferramentas usadas no projeto:
