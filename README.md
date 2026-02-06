@@ -6,6 +6,9 @@
 ## 💻 Sobre
 Esse projeto tem como finalidade ajuar o usuario a ter um controle sobre renda e  despesas mensais.
 
+## fluxograma
+
+![](fluxograma.png)
 
 ## 🛠 Tecnologias
 As principais ferramentas usadas no projeto:
